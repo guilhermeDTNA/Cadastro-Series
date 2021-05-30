@@ -1,4 +1,5 @@
 # Cadastro-Séries
+Projeto criado para fins de estudo que faz um CRUD de séries, validando as entradas do usuário referentes a: identificação, gênero, título, ano de lançamento e descrição.
 
 Para executá-lo, basta instalar o .NET 5 eu seu sistema operacional, vide: 
 <ul>
