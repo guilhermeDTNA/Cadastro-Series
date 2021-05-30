@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mvfewWZMbsnXndjmVXEzrfl3TZtl6vfuWErVAAkglPbTcXF1o3ArIn/jB0y1uKeoB8MWlKxWMEO99C3JYsmp4w==",
+  "dgSpecHash": "/8ebF70vz6BKmMp0AyLI4fSGs6Q/VcIqmRGiU73JWKwTE7scumjZf/b66BHdjAq+qJJimiYojiz8IcpY7fffIg==",
   "success": true,
-  "projectFilePath": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/DIO.series/DIO.series.csproj",
+  "projectFilePath": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/DIO.series.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

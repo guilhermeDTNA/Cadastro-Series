@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/DIO.series/DIO.series.csproj",
+      "projectUniqueName": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/DIO.series.csproj",
       "projectName": "DIO.series",
-      "projectPath": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/DIO.series/DIO.series.csproj",
+      "projectPath": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/DIO.series.csproj",
       "packagesPath": "/home/guilherme/.nuget/packages/",
-      "outputPath": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/DIO.series/obj/",
+      "outputPath": "/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/guilherme/.nuget/NuGet/NuGet.Config"

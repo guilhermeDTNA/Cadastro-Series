@@ -1,4 +1,4 @@
-namespace Series.Classes
+namespace Series
 {
     public class Serie : EntidadeBase
     {
@@ -8,6 +8,7 @@ namespace Series.Classes
         private string descricao { get; set; }
 
         private int ano { get; set; }
+        private bool excluido {get; set;}
 
         public Serie(int id, Genero genero, string titulo, string descricao, int ano)
         {
@@ -16,12 +17,14 @@ namespace Series.Classes
             this.titulo = titulo;
             this.descricao = descricao;
             this.ano = ano;
+            this.excluido = false;
         }
 
         public override string ToString()
         {
             string retorno = "";
 
+            retorno += $"\n\n#ID {this.id}"+"\n";
             retorno += "Gênero: " + this.genero + "\n";
             retorno += "Título: " + this.titulo + "\n";
             retorno += "Descrição: " + this.descricao + "\n";
@@ -36,6 +39,18 @@ namespace Series.Classes
 
         public int retornaId(){
             return this.id;
+        }
+
+        public void exclui(){
+            this.excluido = true;
+        }
+
+        public bool retornaExlcuido(){
+            if (this.excluido){
+                return true;
+            }
+
+            return false;
         }
     }
 }

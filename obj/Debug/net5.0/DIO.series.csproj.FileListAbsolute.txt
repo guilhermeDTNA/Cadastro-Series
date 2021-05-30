@@ -1,0 +1,16 @@
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/DIO.series
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/DIO.series.deps.json
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/DIO.series.runtimeconfig.json
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/DIO.series.runtimeconfig.dev.json
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/DIO.series.dll
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/ref/DIO.series.dll
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/bin/Debug/net5.0/DIO.series.pdb
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.csprojAssemblyReference.cache
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.AssemblyInfoInputs.cache
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.AssemblyInfo.cs
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.csproj.CoreCompileInputs.cache
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.dll
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/ref/DIO.series.dll
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.pdb
+/home/guilherme/Documentos/GitHub/bootcamp-.NET/csharp-examples/projetos/projetos/Series/obj/Debug/net5.0/DIO.series.genruntimeconfig.cache
