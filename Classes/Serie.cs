@@ -17,7 +17,6 @@ namespace Series
             this.titulo = titulo;
             this.descricao = descricao;
             this.ano = ano;
-            this.excluido = false;
         }
 
         public override string ToString()
@@ -42,7 +41,11 @@ namespace Series
         }
 
         public void exclui(){
-            this.excluido = true;
+
+            this.titulo = "";
+            this.descricao = "";
+            this.ano = -1;
+            this.descricao = "";
         }
 
         public bool retornaExlcuido(){

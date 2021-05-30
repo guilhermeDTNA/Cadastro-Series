@@ -12,9 +12,16 @@ namespace Series
             listaSerie[id] = objeto;
         }
 
-        public void exclui(int id)
+        public bool exclui(int id)
         {
-            listaSerie[id].exclui();
+                try{
+                listaSerie[id].exclui();
+                } catch(Exception){
+                    
+                    return false;
+                }
+            
+            return true;
         }
 
         public void insere(Serie objeto)
@@ -34,7 +41,16 @@ namespace Series
 
         public Serie retornaPorId(int id)
         {
-            return listaSerie[id];
+            try{
+            if(listaSerie.Contains(listaSerie[id]) && String.Compare(listaSerie[id].retornaTitulo(), "") != 0){
+                return listaSerie[id];
+            }
+            } catch(Exception){
+                return null;
+            }
+
+            return null;
+            
         }
     }
 }
